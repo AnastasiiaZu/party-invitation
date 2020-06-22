@@ -1,0 +1,227 @@
+
+/************************ ELEMENTS SELECTORS ************************/
+body {
+  font-family: 'Montserrat', sans-serif;
+}
+
+h1 {
+  color: #faeee7;
+  font-size: 3.2rem;
+  line-height: 1.5;
+  font-weight: bold;
+  padding: 15% 0;
+}
+
+h2 {
+  font-size: 3rem;
+  line-height: 1.5;
+  font-weight: bold;
+  text-align: center;
+  margin: 0 auto 6rem;
+}
+
+h3 {
+  text-align: center;
+  font-size: 2rem;
+  font-weight: bold;
+  margin: 1rem;
+}
+
+h4 {
+  color: #ff4c68;
+  padding: 2rem;
+  font-weight: bold;
+}
+
+p {
+  color: #8f8f8f;
+  text-align: center;
+}
+
+/**************** Navigation Bar ***************/
+.navbar-brand {
+  font-family: "Ubuntu";
+  font-size: 1.5rem;
+  color: #faeee7;
+}
+
+.navbar-icon {
+  height: 1.5rem;
+}
+
+.nav-item {
+  padding: 0 1rem;
+  font-size: 1.1rem;
+}
+
+.navbar {
+  padding: 0 0 4rem;
+}
+
+/************************ Title Section ***********************/
+#title {
+  background-color: #ff4c68;
+  color: #faeee7;
+}
+
+.container-fluid {
+  padding: 3% 15%;
+}
+
+.title-picture {
+  /*image*/
+  text-align: center;
+  margin: 15% 5% 0 20%;
+  transform: rotate(20deg);
+  border-style: dashed;
+  border-color: #faeee7;
+  padding: 0.5rem;
+  width: 100%;
+  position: relative;
+  z-index: 0;
+}
+
+/* When and Where buttons */
+.when-where-button {
+  margin: 5% 6% 5% 0;
+}
+
+/*********** What's Coming Section ***********/
+
+#features {
+  background-color: white;
+  position: relative;
+  z-index: 1;
+  padding: 4rem 0 0;
+}
+
+.evening-feature {
+  padding: 0 2rem;
+}
+
+.coming-icon {
+  color: #ef8172;
+  margin: 1rem;
+  font-size: 3rem;
+}
+
+.coming-icon:hover {
+  color: #ff4c68;
+}
+
+/************ Attendees Section *************/
+#attendees {
+  background-color: #ef8172;
+  margin: 10rem auto;
+  text-align: center;
+  color: #fff;
+  width: 90%;
+  padding-top: 3rem;
+}
+
+.carousel-item {
+  padding: 3% 10% 10%;
+}
+
+.attendee-image {
+  width: 30rem;
+  padding: 0 5%;
+  float: left;
+}
+
+.attendee-title {
+  text-align: left;
+}
+
+.attendee-paragraph {
+  color: #faeee7;
+  text-align: left;
+  font-size: 1.5rem;
+  padding: 2rem 1rem 5rem;
+}
+
+.nata-title {
+  color: #bac964;
+  padding-top: 2rem;
+}
+
+.polina-title {
+  color: #dbc6eb;
+  padding-top: 2rem;
+}
+
+.sasha-title {
+  color: #d92027;
+  padding-top: 2rem;
+}
+
+.lena-title {
+  color: #abc2e8;
+  padding-top: 2rem;
+}
+
+.nastia-title {
+  color: #fbd46d;
+  padding-top: 2rem;
+}
+
+/*********** Party Plans Section *************/
+
+.party-plans {
+  margin: 5% auto;
+}
+
+.card {
+  margin: 5% 5%;
+}
+
+.card-body {
+  text-align: center;
+}
+
+.sign-up /* button */ {
+  margin: 2rem auto 1rem;
+}
+
+/*************** Call for Action Section *******************/
+
+#cta {
+  background-color: #ff4c68;
+}
+
+.call-for-action {
+  font-size: 3rem;
+  text-align: center;
+  padding: 5% 5%;
+  color: #fff;
+}
+
+.par-bar-img {
+  width: 35%;
+  margin: auto;
+}
+
+.friday-img {
+  width: 35%;
+  margin: auto;
+}
+
+h5 {
+  font-size: 2rem;
+  text-align: center;
+  padding: 2rem;
+}
+
+.where-title {
+  color: #007bff;
+  padding: 5% 0;
+}
+
+
+.when-title {
+  color: #28a745;
+  padding: 5% 0;
+}
+
+
+/*************** Footer Section *******************/
